@@ -1,0 +1,8 @@
+site_name: PyWorker
+repo_url: https://github.com/dembinski2019/pyworker
+repo_name: dembinski2019/PyWorker
+edit_uri: tree/master/docs
+
+theme:
+  name: material
+  language: pt-BR
